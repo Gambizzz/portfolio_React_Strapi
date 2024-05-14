@@ -1,8 +1,15 @@
-# React + Vite
+## Réalisation d'un portfolio avec React et Strapi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+L'application aura, au minimum : 
 
-Currently, two official plugins are available:
+- Un titre
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Un texte de présentation
+
+- Une section présentant quelques travaux
+
+- Un dernier texte pour inviter les gens à te contacter (+ formulaire)
+  
+- Dans le header en haut à droite, un bouton permettant de switcher du mode "jour" au mode "nuit".
+
+- En option, un bouton permettant de changer de langue
